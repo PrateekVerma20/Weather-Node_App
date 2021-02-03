@@ -1,0 +1,1 @@
+App.js is demo file for checking cryptocurrency url.
